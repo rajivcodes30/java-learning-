@@ -43,5 +43,7 @@ public class ATM {
             System.out.println("Invalid choice. Please try again.");
         }
 
-  }
+       sc.close();
+      }
+      
 }
